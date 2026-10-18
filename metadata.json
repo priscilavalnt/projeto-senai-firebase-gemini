@@ -1,0 +1,6 @@
+{
+  "name": "Estúdio Tarja Preta",
+  "description": "Plataforma de agendamento e portfólio de tatuagens do Estúdio Tarja Preta com visual autoral, agenda interativa e envio de referências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
